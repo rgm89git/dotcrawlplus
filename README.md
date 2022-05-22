@@ -10,8 +10,8 @@ The fork will be made soon, but for while here's the original version, as well t
 ## Navigation:
 
 - :file_folder: [original](https://github.com/rgm89git/dotcrawlplus/tree/main/original)
-    - **dotcrawlplus** *(Original version)*
-    - **dotcrawlplus2_avsplus** *(poisondeathray's AVS+ port)*
+    - **[dotcrawlplus](https://github.com/rgm89git/dotcrawlplus/blob/main/original/dotcrawlplus.avsi)** *(Original version)*
+    - **[dotcrawlplus2_avsplus](https://github.com/rgm89git/dotcrawlplus/blob/main/original/dotcrawlplus2_avsplus.avsi)** *(poisondeathray's AVS+ port)*
 
 ## Original description:
 *(from [the original doom9 thread](https://forum.doom9.org/showthread.php?t=170433))*
