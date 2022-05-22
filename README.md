@@ -11,7 +11,7 @@ The fork will be made soon, but for while here's the original version, as well t
 
 - **AviSynth**
     - [AviSynth 2.6](http://sourceforge.net/projects/avisynth2/) or lower *(for the original script)*
-    - [AviSynth+](https://github.com/AviSynth/AviSynthPlus/releases) *(for the AVS+ fork)*
+    - [AviSynth+](https://github.com/AviSynth/AviSynthPlus/releases) *(for the AVS+ port)*
 - **Plugins** *(need to be added onto the plugins folder on the AviSynth program folder)*
     - [MaskTools](https://github.com/pinterf/masktools/releases/)
     - [AddGrainC](https://github.com/pinterf/AddGrainC/releases)
