@@ -19,6 +19,8 @@ The fork will be made soon, but for while here's the original version, as well t
 
 ## Navigation
 
+- :file_folder: [images](https://github.com/rgm89git/dotcrawlplus/tree/main/images)
+    - **Example images**
 - :file_folder: [original](https://github.com/rgm89git/dotcrawlplus/tree/main/original)
     - **[dotcrawlplus](https://github.com/rgm89git/dotcrawlplus/blob/main/original/dotcrawlplus.avsi)** *(Original version)*
     - **[dotcrawlplus2_avsplus](https://github.com/rgm89git/dotcrawlplus/blob/main/original/dotcrawlplus2_avsplus.avsi)** *(poisondeathray's AVS+ port)*
