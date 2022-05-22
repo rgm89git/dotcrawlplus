@@ -7,6 +7,11 @@ I've been thinking of making an fork to update some things like making the rainb
 
 The fork will be made soon, but for while here's the original version, as well the poisondeathray *(videohelp.com)*'s port to AVS+.
 
+## Gallery
+
+<img src="https://github.com/rgm89git/dotcrawlplus/blob/main/images/dotcrawlplus-sw-01b-mild.jpg?raw=true" height="350">
+<img src="https://github.com/rgm89git/dotcrawlplus/blob/main/images/frafs-testpatt-01e-heavy.jpg?raw=true" height="350">
+
 ## Requisites
 
 - **AviSynth**
