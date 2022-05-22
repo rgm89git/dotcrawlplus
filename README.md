@@ -9,7 +9,7 @@ The fork will be made soon, but for while here's the original version, as well t
 
 ## Navigation:
 
-- :file_folder: original
+- :file_folder: [original](https://github.com/rgm89git/dotcrawlplus/tree/main/original)
     - **dotcrawlplus** *(Original version)*
     - **dotcrawlplus2_avsplus** *(poisondeathray's AVS+ port)*
 
