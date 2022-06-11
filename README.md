@@ -2,10 +2,9 @@
 Avisynth dot crawl effect (make your video ugly on purpose)
 *(by raffriff42)*
 
-This is a mirror of an AviSynth .avsi plugin, originally uploaded on DropBox and posted on doom9 on 3rd April 2014, 21:57 *(GMT -3:00)*.
-I've been thinking of making an fork to update some things like making the rainbowing more realistic and noticeable.
+This is a archive/mirror of an AviSynth .avsi plugin, originally uploaded on DropBox and posted on doom9 on 3rd April 2014, 21:57 *(GMT -3:00)*.
 
-The fork will be made soon, but for while here's the original version, as well the poisondeathray *(videohelp.com)*'s port to AVS+.
+The maintainer of this archive already made a modern fork of the original script called [DotCrawl++](https://github.com/rgm89git/DotCrawlPlusPlus).
 
 ## Gallery
 
